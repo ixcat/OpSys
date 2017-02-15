@@ -1,0 +1,14 @@
+
+OpSys: simple perl module for operating system detection 
+
+installation:
+
+  perl Makefile.PL
+  make
+  make install
+
+usage:
+
+  Primarily intended for development use; the 'opsys' command shows
+  module usage and also prints it's guess of the host system.
+
